@@ -1,5 +1,5 @@
 # Nearest-neightbour-code-optimisation
-Task was given to optimise inefficient code that was finding nearest neighbour of N particles in a periodic unit cube. 
+Task was to optimise inefficient code that was finding nearest neighbour of N particles in a periodic unit cube. 
 
 A random number of N points were generated in a periodic unit cube (a constant seed state was used to replicate this 'random' cube)
 The goal of the legacy code was to find the shortest displacement vector from one point to another, for every single point in this cube.
